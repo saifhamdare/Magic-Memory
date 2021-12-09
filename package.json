@@ -1,5 +1,6 @@
 {
   "name": "magic-memory",
+  "homepage": "https://github.com/saifhamdare/Magic-Memory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
